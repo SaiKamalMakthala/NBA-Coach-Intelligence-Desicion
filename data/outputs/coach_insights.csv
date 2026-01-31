@@ -1,0 +1,21 @@
+type,game_id,player,period,insight
+fatigue_risk,S2324-G0739,K. Durant,1,High fatigue risk: model predicts performance drop of 32.19 next period.
+fatigue_risk,S2324-G1099,N. Jokic,1,High fatigue risk: model predicts performance drop of 31.80 next period.
+fatigue_risk,S2324-G0778,J. Brunson,1,High fatigue risk: model predicts performance drop of 30.71 next period.
+fatigue_risk,S2324-G0290,N. Jokic,1,High fatigue risk: model predicts performance drop of 28.38 next period.
+fatigue_risk,S2324-G1168,F. VanVleet,1,High fatigue risk: model predicts performance drop of 28.16 next period.
+fatigue_risk,S2324-G0905,G. Allen,1,High fatigue risk: model predicts performance drop of 28.16 next period.
+fatigue_risk,S2324-G1042,T. Maxey,1,High fatigue risk: model predicts performance drop of 28.04 next period.
+fatigue_risk,S2324-G1140,T. Maxey,3,High fatigue risk: model predicts performance drop of 27.92 next period.
+fatigue_risk,S2324-G0610,K. Towns,1,High fatigue risk: model predicts performance drop of 27.51 next period.
+fatigue_risk,S2324-G0310,J. Embiid,1,High fatigue risk: model predicts performance drop of 27.28 next period.
+clutch_opportunity,S2324-G0374,,4,High clutch scoring probability at clock 280s (p=1.00).
+clutch_opportunity,S2324-G0349,,4,High clutch scoring probability at clock 214s (p=1.00).
+clutch_opportunity,S2324-G0556,,4,High clutch scoring probability at clock 294s (p=1.00).
+clutch_opportunity,S2324-G0924,,4,High clutch scoring probability at clock 227s (p=1.00).
+clutch_opportunity,S2324-G0266,,4,High clutch scoring probability at clock 293s (p=1.00).
+clutch_opportunity,S2324-G0908,,4,High clutch scoring probability at clock 214s (p=1.00).
+clutch_opportunity,S2324-G0213,,4,High clutch scoring probability at clock 228s (p=1.00).
+clutch_opportunity,S2324-G1172,,4,High clutch scoring probability at clock 206s (p=1.00).
+clutch_opportunity,S2324-G1202,,4,High clutch scoring probability at clock 238s (p=1.00).
+clutch_opportunity,S2324-G0686,,4,High clutch scoring probability at clock 192s (p=1.00).
